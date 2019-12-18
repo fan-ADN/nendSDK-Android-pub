@@ -17,4 +17,4 @@ Android用nendSDKのリリースリポジトリです。
 
 ## License
 
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
